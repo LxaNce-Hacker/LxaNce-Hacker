@@ -27,6 +27,13 @@
 <a href="https://github.com/LxaNce-Hacker/Extra_Keys"><img title="Extra_Keys" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Extra_Keys&theme=highcontrast"></a>
 </p>
 
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/LxaNce-Hacker"><img width=550 src="https://github-profile-trophy.vercel.app/?username=LxaNce-Hacker&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/LxaNce-Hacker"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=LxaNce-Hacker&color=blueviolet&style=flat-square"></a>
+
+
 <p align="center">
 <a href="https://github.com/LxaNce-Hacker"><img title="LxaNce-Hacker" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxaNce-Hacker&layout=compact"></a>
 </p>
