@@ -27,6 +27,7 @@
 <a href="https://github.com/LxaNce-Hacker/Text-to-Voice"><img title="Text-to-Voice" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Text-to-Voice&theme=highcontrast"></a>
 <a href="https://github.com/LxaNce-Hacker/Python-GUI"><img title="Python-GUI" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Python-GUI&theme=highcontrast"></a>
 <a href="https://github.com/LxaNce-Hacker/Extra_Keys"><img title="Extra_Keys" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Extra_Keys&theme=highcontrast"></a>
+<a href="https://github.com/LxaNce-Hacker/Office365"><img title="Office365" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Office365&theme=highcontrast"></a>
 </p>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
