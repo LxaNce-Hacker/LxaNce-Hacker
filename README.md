@@ -38,5 +38,5 @@
 
 
 <p align="center">
-<a href="https://github.com/LxaNce-Hacker"><img title="LxaNce-Hacker" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxaNce-Hacker&layout=compact&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/LxaNce-Hacker"><img width=600 title="LxaNce-Hacker" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxaNce-Hacker&layout=compact&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
