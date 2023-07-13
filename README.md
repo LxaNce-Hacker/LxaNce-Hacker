@@ -22,11 +22,11 @@
 <p align="center">
   
 
+<a href="https://github.com/LxaNce-Hacker/lxancephisher"><img title="lxancephisher" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=lxancephisher&theme=highcontrast"></a>
+<a href="https://github.com/LxaNce-Hacker/samba"><img title="samba" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=samba&theme=vision-friendly-dark"></a>
+<a href="https://github.com/LxaNce-Hacker/IP-Changer"><img title="IP-Changer" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=IP-Changer&theme=vision-friendly-dark"></a>
+<a href="https://github.com/LxaNce-Hacker/D-Attack"><img title="D-Attack" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=D-Attack&theme=highcontrast"></a>
 <a href="https://github.com/LxaNce-Hacker/Wifi-Passwords"><img title="Wifi-Passwords" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Wifi-Passwords&theme=highcontrast"></a>
-<a href="https://github.com/LxaNce-Hacker/Termux-Fingerprint"><img title="Termux-Fingerprint" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Termux-Fingerprint&theme=vision-friendly-dark"></a>
-<a href="https://github.com/LxaNce-Hacker/Text-to-Voice"><img title="Text-to-Voice" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Text-to-Voice&theme=highcontrast"></a>
-<a href="https://github.com/LxaNce-Hacker/Python-GUI"><img title="Python-GUI" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Python-GUI&theme=highcontrast"></a>
-<a href="https://github.com/LxaNce-Hacker/Extra_Keys"><img title="Extra_Keys" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Extra_Keys&theme=highcontrast"></a>
 <a href="https://github.com/LxaNce-Hacker/Office365"><img title="Office365" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Office365&theme=highcontrast"></a>
 </p>
 
