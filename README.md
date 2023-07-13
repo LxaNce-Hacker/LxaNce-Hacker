@@ -7,7 +7,7 @@
 </p>
   
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/LxaNce-Hacker"><img title="LxaNce" src="https://github-readme-stats.vercel.app/api?username=LxaNce-Hacker&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/LxaNce-Hacker"><img title="LxaNce" src="https://github-readme-stats.vercel.app/api?username=LxaNce-Hacker&show_icons=true&include_all_commits=false&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
