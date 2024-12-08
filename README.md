@@ -1,5 +1,5 @@
-## Hey, Guys😎
-## Welcome To LxaNce👸🤴
+## Hey, Guys 😎
+## Welcome To LxaNce-Hacker|World
 <p align="center"><img src="https://i.imgur.com/mp5JwKO.png" alt="Bt">
 </p>
   
