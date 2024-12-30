@@ -5,8 +5,11 @@
   
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 </p>
-  
+<hr>
+
 ### KNOW MORE ABOUT ME>>>>
+<p align="center"><a href="https://stardev.io/developers/LxaNce-Hacker"><img alt="Check out LxaNce-Hacker&apos;s profile on stardev.io" src="https://stardev.io/developers/LxaNce-Hacker/badge/languages/global.svg" /></a></p>
+
 <p align="center"><a href="https://github.com/LxaNce-Hacker"><img title="LxaNce" src="https://github-readme-stats.vercel.app/api?username=LxaNce-Hacker&show_icons=true&include_all_commits=false&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
@@ -29,10 +32,11 @@
 <a href="https://github.com/LxaNce-Hacker/Wifi-Passwords"><img title="Wifi-Passwords" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Wifi-Passwords&theme=highcontrast"></a>
 <a href="https://github.com/LxaNce-Hacker/Office365"><img title="Office365" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Office365&theme=highcontrast"></a>
 </p>
+<hr>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/LxaNce-Hacker"><img width=550 src="https://github-profile-trophy.vercel.app/?username=LxaNce-Hacker&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
+<hr>
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/LxaNce-Hacker"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=LxaNce-Hacker&color=blueviolet&style=flat-square"></a>
 
