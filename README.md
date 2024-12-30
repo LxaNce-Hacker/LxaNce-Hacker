@@ -7,9 +7,11 @@
 </p>
 <hr>
 
-### KNOW MORE ABOUT ME>>>>
+<h3><b><i>🌏 Global Ranking :</i></b></h3>
 <p align="center"><a href="https://stardev.io/developers/LxaNce-Hacker"><img alt="Check out LxaNce-Hacker&apos;s profile on stardev.io" src="https://stardev.io/developers/LxaNce-Hacker/badge/languages/global.svg" /></a></p>
+<hr>
 
+<h3><b><i>KNOW MORE ABOUT ME :</i></b></h3>
 <p align="center"><a href="https://github.com/LxaNce-Hacker"><img title="LxaNce" src="https://github-readme-stats.vercel.app/api?username=LxaNce-Hacker&show_icons=true&include_all_commits=false&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
