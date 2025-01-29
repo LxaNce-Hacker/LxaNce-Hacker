@@ -8,7 +8,7 @@
 <hr>
 
 <h3><b><i>🌏 Global Ranking :</i></b></h3>
-<p align="center"><a href="https://stardev.io/developers/LxaNce-Hacker"><img alt="Check out LxaNce-Hacker&apos;s profile on stardev.io" src="https://stardev.io/developers/LxaNce-Hacker/badge/languages/global.svg" /></a></p>
+<p align="center"><a href="https://stardev.io/developers/LxaNce-Hacker"><img alt="Check out LxaNce-Hacker's profile on stardev.io" src="https://stardev.io/developers/LxaNce-Hacker/badge/languages/country.svg" /></a></p>
 <hr>
 
 <h3><b><i>KNOW MORE ABOUT ME :</i></b></h3>
