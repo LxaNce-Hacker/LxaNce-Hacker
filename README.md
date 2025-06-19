@@ -32,7 +32,7 @@
 <a href="https://github.com/LxaNce-Hacker/IP-Changer"><img title="IP-Changer" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=IP-Changer&theme=vision-friendly-dark"></a>
 <a href="https://github.com/LxaNce-Hacker/D-Attack"><img title="D-Attack" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=D-Attack&theme=highcontrast"></a>
 <a href="https://github.com/LxaNce-Hacker/Wifi-Passwords"><img title="Wifi-Passwords" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Wifi-Passwords&theme=highcontrast"></a>
-<a href="https://github.com/LxaNce-Hacker/Office365"><img title="Office365" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=Office365&theme=highcontrast"></a>
+<a href="https://github.com/LxaNce-Hacker/wifi-jammer"><img title="wifi-jammer" src="https://github-readme-stats.vercel.app/api/pin/?username=LxaNce-Hacker&repo=wifi-jammer&theme=highcontrast"></a>
 </p>
 <hr>
 
