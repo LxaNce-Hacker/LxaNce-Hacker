@@ -40,7 +40,7 @@ class LxaNceHacker:
     def __init__(self):
         self.name = "LxaNce Hacker"
         self.role = "Offensive Security Researcher"
-        self.location = "Khatauli, India"
+        self.location = "Uttar Pradesh, India"
         self.expertise = {
             "web_exploitation": ["XSS", "SQLi", "CSRF", "RCE"],
             "network_hacking": ["WiFi Cracking", "MITM", "Packet Sniffing"],
